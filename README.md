@@ -4,6 +4,7 @@ Tesseract is an open-source Optical Character Recognition (OCR) engine developed
 To perform text detection using Tesseract, you can follow these steps:
 
 1.Install Tesseract on your system. You can download Tesseract from the official GitHub repository.
+https://github.com/tesseract-ocr/tesseract
 
 2.Load the input image using a suitable library like OpenCV or Pillow.
 
